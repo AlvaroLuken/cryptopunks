@@ -1,5 +1,5 @@
 {
     "name": "Account Kit NFT",
-    "description": "You minted this NFT without connecting a web3 wallet or paying gas fees!",
+    "description": "You minted this NFT with an ERC-4337 smart account powered by Account Kit.",
     "image": "https://raw.githubusercontent.com/AlvaroLuken/cryptopunks/main/accountkit.jpg"
 }
