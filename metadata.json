@@ -1,5 +1,5 @@
 {
-    "name": "SepoliaCryptoPunk",
-    "description": "A unique representation of the Sepolia CryptoPunk universe.",
-    "image": "https://raw.githubusercontent.com/AlvaroLuken/cryptopunks/main/CryptoPunksCollection/333.png"
+    "name": "Account Kit NFT",
+    "description": "You minted this NFT without connecting a web3 wallet or paying gas fees!",
+    "image": "https://raw.githubusercontent.com/AlvaroLuken/cryptopunks/main/accountkit.jpg"
 }
